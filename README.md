@@ -33,4 +33,16 @@ __Sử dụng cho sinh viên thực tập Java Web__
 ### Xây dựng ứng dụng Web giải quyết bài toán: "Quản lý sinh viên thực tập ở LTT" 
 
 ## Tham khảo
-* http://www.objectdb.com/java/jpa/query
+* Giới thiệu mô hình MVC
+
+* Tìm hiểu về RESTful API
+
+* Giới thiệu về Spring Boot framework.
+
+* Tao ứng dụng đầu tiên với Spring Boot
+
+* Tạo ứng dụng CRUD cơ bản với Spring boot
+
+* Spring boot with Thymeleaf
+
+  ​
