@@ -88,9 +88,8 @@ Bạn có thể sử dụng Spring data JPA mà không cần phải phải hiệ
 
 - JpaSpecificationExecutor interface không phải là một repository interface, nó khai báo các phương thức được sử dụng để lấy các entity từ database bằng việc sử dụng các đối tượng Specification của JPA criteria API.
 
-  ​
 
-![springdatajrepositories](C:\Users\DoanhDD\Desktop\springdatajrepositories.png)
+![SpringDataRepositories Image](http://btit95.esy.es/source/springdatajrepositories.png?1480866710906)
 
 
 
